@@ -1,2 +1,2 @@
-# Custom-Data-Structures-and-Sorting-in-Cpp
-C++로 구현한 자료구조와 각종 알고리즘
+# Custom-Data-Structures-and-Algorithms-in-Cpp
+C++로 다양한 자료구조와 알고리즘을 구현합니다.
