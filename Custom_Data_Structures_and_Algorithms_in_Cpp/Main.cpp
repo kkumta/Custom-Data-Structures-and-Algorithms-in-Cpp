@@ -2,10 +2,17 @@
 //
 
 #include <iostream>
+#include "pch.h"
+#include "Set.h"
+#include "Tree.h"
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	Set<int> bstSet(Set<int>::TreeType::BinarySearchTree);
+	bstSet.Insert(10);
+	bstSet.Insert(20);
+	bstSet.Insert(30);
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
